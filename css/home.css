@@ -1,0 +1,70 @@
+ul.nav {
+    display: none;
+}
+
+.banner {
+    width: 100%;
+}
+
+.wrap {
+    width: 100%;
+}
+
+.page2 {
+    width: 100%;
+}
+
+.syclass {
+    display: none;
+}
+
+.btitle1 {
+    display: none;
+}
+
+.meitileft {
+    width: 100%;
+}
+
+img {
+    /* width: 100%; */
+}
+
+div#index4new {
+    width: 100%;
+}
+
+.fnav {
+    width: 100%;
+    height: 4em;
+}
+
+.footer {
+    width: 100%;
+}
+
+.qre {
+    float: unset !important;
+}
+
+img {}
+
+.p1center {
+    width: 100% !important;
+}
+
+.meitivideo {
+    width: 100%;
+    padding-right: 0;
+}
+
+table {
+    width: 100%;
+}
+
+.footer .ftxt {
+    width: 100%;
+    margin: 0;
+    padding-left: 10px;
+    padding-right: 10px;
+}
